@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'rails-controller-testing'
 
+gem 'bootstrap-sass', '3.3.6'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails',        '5.0.0.1'
 gem 'puma',         '3.4.0'
